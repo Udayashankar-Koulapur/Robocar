@@ -5,7 +5,7 @@ Components used in this projects are :
 1. Arduino Uno
 2. L298N Motor Driver or L263d Motor Driver
 3. 4 DC Motor (300 RPM or 500 RPM is up to you)
-    if you need more TORQUE, then use 300 RPM. so You will get more torque
+    if you need HIGH TORQUE, then use 300 RPM. so You will get more torque
 4. Battery
 5. HC-05 Bluetooth Model
 
